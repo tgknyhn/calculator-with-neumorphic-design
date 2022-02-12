@@ -1,4 +1,4 @@
-# calculator_with_neumorphism_design
+# Calculator with Neumorphic Design
 
 A new Flutter project.
 
